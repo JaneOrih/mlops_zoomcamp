@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/mlruns/0/8e4a73b7d9c649c8a370d5a23221e0a5/artifacts
+end_time: 1717119704526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e4a73b7d9c649c8a370d5a23221e0a5
+run_name: upbeat-penguin-14
+run_uuid: 8e4a73b7d9c649c8a370d5a23221e0a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717119685344
+status: 3
+tags: []
+user_id: codespace

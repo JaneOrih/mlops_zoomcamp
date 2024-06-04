@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+Anaconda3-2024.02-1-Linux-x86_64.sh
+learn.ipynb
+mlops
 # Distribution / packaging
 .Python
 build/
