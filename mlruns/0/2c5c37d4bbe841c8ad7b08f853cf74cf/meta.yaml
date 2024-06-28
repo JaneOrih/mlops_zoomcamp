@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/mlruns/0/2c5c37d4bbe841c8ad7b08f853cf74cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5c37d4bbe841c8ad7b08f853cf74cf
+run_name: enthused-hawk-40
+run_uuid: 2c5c37d4bbe841c8ad7b08f853cf74cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719286106103
+status: 1
+tags: []
+user_id: Jane
