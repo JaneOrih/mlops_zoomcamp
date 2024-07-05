@@ -4,4 +4,13 @@ scikit-learn
 pandas
 seaborn
 hyperopt
-xgboost
+xgboost 
+prefect
+tqdm
+requests
+joblib
+pyarrow
+psycopg
+psycopg_binary
+evidently
+numpy
